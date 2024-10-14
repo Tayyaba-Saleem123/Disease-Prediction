@@ -12,3 +12,8 @@ This repository contains a Python script that trains a **Random Forest Classifie
 This project demonstrates the application of machine learning in healthcare, focusing on accurate and efficient disease prediction.
 
 ![Output of Disease Prediction](https://github.com/user-attachments/assets/21b528e3-b238-4a6b-bd81-ca5099ac8b52)
+
+For more clarification and a step-by-step guide, a video walkthrough is also included with this repository.
+
+https://github.com/user-attachments/assets/eef5531d-e4d2-4998-95bb-e69461b1dfd0
+
